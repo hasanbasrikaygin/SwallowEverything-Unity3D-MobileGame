@@ -1,4 +1,6 @@
 
+![Adsız tasarım - 2024-07-26T233904 676](https://github.com/user-attachments/assets/1e4cf3ca-34dd-42ce-8734-206192d425d5)
+
 # 🤖💥 Swallow Everything 💥🤖
 
 **Swallow Everything**, Unity ile geliştirdiğim ilk oyun olup, bir **Third-Person Shooter** türünde mobil aksiyon oyunudur. Oyun , robotlar tarafından işgal edilen şehrine geri dönerek tüm robotları ve binaları yok etmeyi amaçlayan bir karakterin aksiyon dolu mobil macerasını bizlere sunmaktadır !
